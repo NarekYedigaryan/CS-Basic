@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+  TicTacToe.cpp
+  TicTacToe.h
+  Generating Code...
+x64\Debug\TicTacToe.obj : warning LNK4042: object specified more than once; extras ignored
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\C#\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

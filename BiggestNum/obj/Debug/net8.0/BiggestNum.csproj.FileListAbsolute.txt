@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.exe
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.dll.config
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.deps.json
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.runtimeconfig.json
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.dll
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\net8.0\BiggestNum.pdb
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\BiggestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\BiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\BiggestNum.dll
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\refint\BiggestNum.dll
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\BiggestNum.pdb
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\BiggestNum.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\net8.0\ref\BiggestNum.dll

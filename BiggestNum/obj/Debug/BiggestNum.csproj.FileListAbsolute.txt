@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\BiggestNum\bin\Debug\BiggestNum.exe.config
+C:\Users\User\Desktop\C#\BiggestNum\bin\Debug\BiggestNum.exe
+C:\Users\User\Desktop\C#\BiggestNum\bin\Debug\BiggestNum.pdb
+C:\Users\User\Desktop\C#\BiggestNum\obj\Debug\BiggestNum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\BiggestNum\obj\Debug\BiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\BiggestNum\obj\Debug\BiggestNum.exe
+C:\Users\User\Desktop\C#\BiggestNum\obj\Debug\BiggestNum.pdb
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\BiggestNum.exe.config
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\BiggestNum.exe
+C:\Users\User\Desktop\Programming\C#\BiggestNum\bin\Debug\BiggestNum.pdb
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\BiggestNum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\BiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\BiggestNum.exe
+C:\Users\User\Desktop\Programming\C#\BiggestNum\obj\Debug\BiggestNum.pdb

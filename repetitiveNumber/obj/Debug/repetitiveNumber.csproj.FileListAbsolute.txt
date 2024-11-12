@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#\repetitiveNumber\bin\Debug\repetitiveNumber.exe.config
+C:\Users\User\Desktop\C#\repetitiveNumber\bin\Debug\repetitiveNumber.exe
+C:\Users\User\Desktop\C#\repetitiveNumber\bin\Debug\repetitiveNumber.pdb
+C:\Users\User\Desktop\C#\repetitiveNumber\obj\Debug\repetitiveNumber.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\repetitiveNumber\obj\Debug\repetitiveNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\repetitiveNumber\obj\Debug\repetitiveNumber.exe
+C:\Users\User\Desktop\C#\repetitiveNumber\obj\Debug\repetitiveNumber.pdb
