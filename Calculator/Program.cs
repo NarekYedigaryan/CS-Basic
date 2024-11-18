@@ -6,14 +6,14 @@ namespace Calculator
 {
     internal class Program
     {
-        bool isSmall(string s1,string s2)
+        bool isSmall(string s1, string s2)
         {
             if (s1.Length < s2.Length) return true;
-            else if(s1.Length > s2.Length) { return false; }
+            else if (s1.Length > s2.Length) { return false; }
 
             for (int i = 0; i < s1.Length; i++)
             {
-                if (s1[i] < s2[i]) return true; 
+                if (s1[i] < s2[i]) return true;
             }
             return false;
         }
@@ -82,7 +82,7 @@ namespace Calculator
             {
                 first = s2;
                 second = s1;
-                isNegative = true; 
+                isNegative = true;
             }
             else
             {
@@ -174,9 +174,9 @@ namespace Calculator
         {
             if (s2 == "0") throw new DivideByZeroException("Can't divide by zero");
             else if (s1 == s2) return "1";
-            else if (s1.Length < s2.Length || (s1.Length == s2.Length && string.Compare(s1,s2)<0)) return "0";
-            
-            
+            else if (s1.Length < s2.Length || (s1.Length == s2.Length && string.Compare(s1, s2) < 0)) return "0";
+
+
             string res = "";
             string curr = "";
 
@@ -188,20 +188,20 @@ namespace Calculator
                 if (curr.Length < s2.Length || (curr.Length == s2.Length && string.Compare(curr, s2) < 0))
                 {
                     res += "0";
-                    continue;   
+                    continue;
                 }
 
                 int count = 0;
-                while(curr.Length > s2.Length || (curr.Length == s2.Length && string.Compare(curr,s2) >=0 )) 
+                while (curr.Length > s2.Length || (curr.Length == s2.Length && string.Compare(curr, s2) >= 0))
                 {
-                    curr = Sub(curr,s2);
+                    curr = Sub(curr, s2);
                     count++;
                 }
                 res += count;
             }
             return string.IsNullOrEmpty(res) ? "0" : res.TrimStart('0');
         }
-        
+
         static void Main(string[] args)
         {
             Program Ob = new Program();
@@ -215,7 +215,7 @@ namespace Calculator
             //Console.Write(Ob.Sum(input1,input2));
             //Console.Write(Ob.Sub(input1,input2));
             //Console.Write(Ob.Mul(input1, input2));
-            Console.WriteLine(Ob.Div(input1,input2));
+            Console.WriteLine(Ob.Div(input1, input2));
         }
     }
 }
